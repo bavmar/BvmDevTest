@@ -1,2 +1,2 @@
 # BvmDevTest
-Testing for newest website.
+This is just some testing for a website concept.
